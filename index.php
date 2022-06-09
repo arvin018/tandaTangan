@@ -21,7 +21,7 @@
         </h1>
         <div class="card">
             <div class="card-header">
-                <center> Form Tanda Tangan</center>
+                <center> Form Tanda Tangan Digital</center>
             </div>
             <div class="card-body">
                 <!-- canvas tanda tangan  -->
